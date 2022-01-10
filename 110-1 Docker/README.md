@@ -20,3 +20,6 @@
 ## Kubernetes (K8S)
 * [安裝K8S、介紹](https://github.com/zixxizxx/Liux-note/blob/main/110-1%20Docker/20211221.md)
 * [K8S簡介](https://github.com/zixxizxx/Liux-note/blob/main/110-1%20Docker/Docker-note/Docker%201228%20k8s.pdf)
+
+-----
+[手寫筆記](https://github.com/zixxizxx/Liux-note/tree/main/110-1%20Docker/Docker-note)
