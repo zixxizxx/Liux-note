@@ -28,8 +28,13 @@
 * [Static NAT](https://github.com/zixxizxx/Liux-note/blob/main/110-1%20Cisco/Cisco-note/Cisco%201228%20%E9%9D%9C%E6%85%8BNAT%20%E4%B8%B6%E5%86%97%E9%A4%98%E5%8D%94%E5%AE%9A%20Done.pdf)
 ## 冗餘協定
 * [冗餘協定](https://github.com/zixxizxx/Liux-note/blob/main/110-1%20Cisco/Cisco-note/Cisco%201228%20%E9%9D%9C%E6%85%8BNAT%20%E4%B8%B6%E5%86%97%E9%A4%98%E5%8D%94%E5%AE%9A%20Done.pdf)
-## VTP 
+
+
 * [port security](https://github.com/zixxizxx/Liux-note/blob/main/110-1%20Cisco/Cisco-note/Cisco%201214%20port%20security%E4%B8%B6%E7%B7%A8%E8%99%9FACL%20Done.pdf)
+
+-----
+* [HW](https://github.com/zixxizxx/Liux-note/tree/main/110-1%20Cisco/hw)
+
 
 
 
