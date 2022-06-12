@@ -13,3 +13,9 @@
 * [DNAT](https://github.com/zixxizxx/Liux-note/blob/main/110-2%20Mininet/20220516.md)
 * [傳輸路徑](https://github.com/zixxizxx/Liux-note/blob/main/110-2%20Mininet/%E6%89%8B%E5%AF%ABnote/Mininet%200523%20Done.pdf)
 * [SDN 第二代 - P4switch](https://github.com/zixxizxx/Liux-note/blob/main/110-2%20Mininet/%E6%89%8B%E5%AF%ABnote/Mininet%200530%20Done.pdf)
+
+參考資料
+----------
+[Chih-Heng Ke YouTube](https://www.youtube.com/user/smallko2007/featured)
+[note](https://github.com/zixxizxx/Liux-note/tree/main/110-2%20Mininet/%E6%89%8B%E5%AF%ABnote)
+
