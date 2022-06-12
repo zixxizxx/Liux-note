@@ -17,5 +17,6 @@
 參考資料
 ----------
 [Chih-Heng Ke YouTube](https://www.youtube.com/user/smallko2007/featured)
-[note](https://github.com/zixxizxx/Liux-note/tree/main/110-2%20Mininet/%E6%89%8B%E5%AF%ABnote)
+
+[上課note](https://github.com/zixxizxx/Liux-note/tree/main/110-2%20Mininet/%E6%89%8B%E5%AF%ABnote)
 
